@@ -1,3 +1,6 @@
+from .exercise_20_histlib import HistLib
+
+
 def add_numbers(x: int, y: int) -> int:
     """Add two numbers together.
 
